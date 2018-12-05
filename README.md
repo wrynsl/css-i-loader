@@ -6,7 +6,7 @@ base on css-loader@0.28.7
 
 ## new css module
 
-*case
+* Case
 
 ```
 p {
